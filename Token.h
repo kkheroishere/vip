@@ -1,6 +1,7 @@
 /** 
   * Description: Header file for class Token.
   * Token class is used as a container for the attributes of a token for the 'little language'
+  * type class,
   */
 
 #ifndef TOKEN_H
